@@ -1,4 +1,5 @@
 # Contents
+Direct DL: https://github.com/ChimesOfDestruction/njRAT-Sounds-Collection/releases/download/DDL/Compressed.7z
 ## Other RATs Sounds  
 BitRat.wav  
 Cerberus RAT.wav  
