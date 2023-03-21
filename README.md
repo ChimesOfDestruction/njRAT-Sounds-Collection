@@ -5,8 +5,7 @@ BitRat.wav
 Cerberus RAT.wav  
 Comet RAT 1.wav  
 Comet RAT 2.wav  
-CyberGate v3.4.2.2.wav  
-filename.txt  
+CyberGate v3.4.2.2.wav    
 Greame RAT.wav  
 Hue V1 - 1.wav  
 Hue V1 - 2.wav  
@@ -32,7 +31,6 @@ Doorbell.wav
 evil.wav      
 EVILLAF2.wav    
 evillaugh.wav  
-filename.txt
 kultur0413.wav  
 ## Favorite  
 cf-killmark.WAV  
@@ -41,7 +39,6 @@ bameware.wav
 basshit.wav  
 COMBO_KILL.WAV  
 fatality.wav  
-filename.txt  
 GachaLuckyBonus.wav  
 GachaOpenFinalRare.wav  
 RankMatch_TierUp.wav  
@@ -57,7 +54,6 @@ button1.wav
 Ding.wav  
 Doorbell.wav  
 echo.wav  
-filename.txt  
 heal 1.wav  
 heal 2.wav  
 hpsuck.wav  
@@ -81,7 +77,6 @@ world.wav
 ## Voices  
 excellant.wav  
 exel.wav  
-filename.txt  
 godlike.wav  
 holyshit.wav  
 nicecatch.wav  
